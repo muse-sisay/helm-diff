@@ -2,6 +2,8 @@
 
 A shell script to perform diff between two Helm releases. **This is WORK IN PROGRESS,Use at your own risk!**
 
+![](./splash.png)
+
 ## use cases 
 - You made changes to *cluster* override and would like to compare the result against a previous commit or the default branch.
 - You're upgrading a dependency chart and would liked to compare/see new changes
